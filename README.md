@@ -2,12 +2,12 @@
 
 <br>
 
-### Sep, 2020
+<!-- ### Sep, 2020
 
 - [找到你可以认真对待的那件事](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/30.md)
 - [失眠的夜，细雨淅淅](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/29.md)
 - [孩子，你要慢慢来](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/28.md)
-- [你是那个刷抖音微博的人么](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/27.md)
+- [你是那个刷抖音微博的人么](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/27.md) -->
 
 ### Aug, 2020
 
