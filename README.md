@@ -2,8 +2,6 @@
 
 <br>
 
-(好像迷茫了~~ )
-
 <!-- ### Sep, 2020
 
 - [找到你可以认真对待的那件事](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/30.md)
