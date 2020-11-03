@@ -9,7 +9,7 @@
 - [孩子，你要慢慢来](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/28.md)
 - [你是那个刷抖音微博的人么](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/27.md) -->
 
-### Nov, 2020
+### Nov, 2020 
 
 - [送给自己的生日礼物](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/27.md)
 
