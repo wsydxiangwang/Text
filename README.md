@@ -1,4 +1,4 @@
-今天的大海很温顺，也许是因为吞没了夕阳，沉睡了一般，只留下海鸥的鸣叫~~
+今天的大海很温顺，也许是因为吞没了夕阳，沉睡了一般，只留下海鸥的鸣叫~~ 嘎嘎嘎~~
 
 <br>
 
@@ -8,6 +8,12 @@
 - [失眠的夜，细雨淅淅](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/29.md)
 - [孩子，你要慢慢来](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/28.md)
 - [你是那个刷抖音微博的人么](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/27.md) -->
+
+
+### Jan, 2021
+
+- [你凭什么上北大](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/29.md)
+- [2020 有点短、但也漫长](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/28.md)
 
 ### Nov, 2020 
 
