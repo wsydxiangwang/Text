@@ -14,7 +14,7 @@
 
 ### Jan, 2021
 
-- [你凭什么上北大](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/30.md)
+- [新年快乐、致将欲行的一年！](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/30.md)
 - [你凭什么上北大](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/29.md)
 - [2020 有点短、但也漫长](https://github.com/wsydxiangwang/Text/blob/master/Article%20list/28.md)
 
